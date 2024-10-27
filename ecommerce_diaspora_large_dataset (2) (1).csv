@@ -1,0 +1,1001 @@
+Country,Age,Gender,Product_Category,Seasonal_Occasion,Purchase_Frequency,Browsing_Frequency,Search_Result_Exploration,Rating,Review
+Germany,26,Male,Handicrafts of Santiniketan,Handicrafts,2,13,3,4.13,Average
+Trinidad and Tobago,55,Male,Bandhanwars,Festivals/Decorative,2,10,1,4.0,Good
+France,37,Female,Prayer Rugs,Ramadan/Eid,9,11,8,4.3,Good
+Germany,51,Male,Torans,Festivals/Decorative,1,16,3,3.08,Good
+South Africa,55,Female,Rakhis,Raksha Bandhan,6,18,1,3.89,Good
+UAE,73,Male,Warli Art,Decorative,8,6,10,3.54,Good
+Germany,24,Female,Puja Samagri of Kumartuli,Handicrafts,7,19,9,4.3,Average
+France,55,Male,Madhubani Paintings,Diwali,1,12,4,3.65,Good
+South Africa,26,Male,Ganesh Idols,Ganesh Chaturthi,8,5,9,3.21,Good
+Canada,75,Male,Rajasthani Puppets,Decorative,9,15,3,4.46,Excellent
+USA,33,Male,Rakhis,Raksha Bandhan,4,5,9,3.04,Good
+USA,32,Female,Puja Samagri of Kumartuli,Handicrafts,6,10,9,3.98,Good
+Australia,75,Female,Rakhis,Raksha Bandhan,2,17,10,3.64,Good
+UK,59,Female,Pagdis,Sikh Celebrations,8,7,2,3.04,Good
+Australia,56,Female,Rakhis,Raksha Bandhan,2,11,3,4.51,Good
+UAE,19,Female,Prayer Flags,Buddhist Festivals,1,7,9,3.45,Good
+Trinidad and Tobago,49,Female,Rangoli Colors,Diwali,5,15,5,3.0,Excellent
+Trinidad and Tobago,75,Female,Rakhis,Raksha Bandhan,6,17,2,3.18,Good
+Canada,44,Female,Mojaris,Festivals/Weddings,2,13,9,4.67,Good
+South Africa,19,Female,Terracotta Arts of Bishnupur,Decorative,9,19,8,3.22,Average
+South Africa,39,Male,Prayer Flags,Buddhist Festivals,9,16,8,3.25,Good
+Trinidad and Tobago,71,Female,Mojaris,Festivals/Weddings,9,9,2,4.43,Good
+Canada,43,Male,Bandhanwars,Festivals/Decorative,6,6,7,3.31,Average
+UK,54,Female,Rakhis,Raksha Bandhan,6,20,1,3.51,Excellent
+UK,18,Female,Pagdis,Sikh Celebrations,5,5,2,3.91,Good
+USA,37,Female,Ganesh Idols,Ganesh Chaturthi,10,9,4,3.15,Good
+USA,66,Male,Kurtas,Festivals/Weddings,1,17,10,4.27,Average
+Australia,44,Male,Torans,Festivals/Decorative,10,9,5,4.08,Good
+Australia,74,Male,Moya of Joynagar,Food Items,9,9,6,4.22,Good
+USA,34,Male,Rajasthani Puppets,Decorative,10,17,4,3.26,Good
+France,42,Female,Puja Samagri of Kumartuli,Handicrafts,1,10,4,3.74,Average
+Australia,58,Female,Ganesh Idols,Ganesh Chaturthi,1,15,4,3.65,Good
+Australia,35,Male,Warli Art,Decorative,10,10,2,3.44,Good
+South Africa,25,Female,Madhubani Paintings,Diwali,7,10,6,4.0,Bad
+Canada,47,Male,Pagdis,Sikh Celebrations,9,11,5,4.17,Excellent
+France,52,Female,Ganesh Idols,Ganesh Chaturthi,1,11,5,4.64,Good
+France,31,Male,Madhubani Paintings,Diwali,10,14,6,4.42,Good
+Germany,52,Female,Terracotta Arts of Bishnupur,Decorative,3,11,8,3.91,Average
+Canada,45,Female,Rajasthani Puppets,Decorative,9,5,7,3.69,Good
+USA,37,Female,Prayer Rugs,Ramadan/Eid,6,13,3,4.16,Good
+Canada,18,Male,Moya of Joynagar,Food Items,10,14,10,3.57,Good
+Germany,36,Female,Pooja Thalis,Diwali,6,10,6,3.4,Good
+Trinidad and Tobago,63,Female,Moya of Joynagar,Food Items,2,13,8,4.29,Good
+South Africa,53,Female,Ganesh Idols,Ganesh Chaturthi,1,8,8,4.38,Good
+UK,47,Female,Moya of Joynagar,Food Items,9,14,7,3.1,Good
+France,59,Female,Moya of Joynagar,Food Items,1,11,6,3.79,Good
+Germany,24,Female,Prayer Rugs,Ramadan/Eid,4,11,5,3.02,Good
+South Africa,66,Male,Traditional Jewelry,Festivals/Weddings,1,10,3,3.27,Excellent
+South Africa,74,Female,Handicrafts of Santiniketan,Handicrafts,5,15,6,3.42,Excellent
+Canada,43,Male,Prayer Rugs,Ramadan/Eid,9,7,7,3.17,Good
+UK,22,Male,Rangoli Colors,Diwali,6,6,4,3.59,Good
+Canada,57,Male,Rangoli Colors,Diwali,8,7,5,3.28,Good
+South Africa,52,Female,Puja Samagri of Kumartuli,Handicrafts,1,15,6,3.67,Good
+Germany,75,Male,Rakhis,Raksha Bandhan,3,11,5,4.69,Good
+Germany,73,Female,Prayer Rugs,Ramadan/Eid,10,6,1,4.17,Good
+South Africa,22,Female,Pagdis,Sikh Celebrations,6,17,3,3.03,Average
+UAE,68,Female,Pooja Thalis,Diwali,8,18,8,4.43,Good
+UK,61,Female,Handicrafts of Santiniketan,Handicrafts,7,15,9,3.23,Good
+USA,50,Male,Handicrafts of Santiniketan,Handicrafts,9,20,10,3.05,Average
+South Africa,41,Male,Moya of Joynagar,Food Items,9,18,7,4.03,Average
+South Africa,68,Male,Warli Art,Decorative,8,17,4,3.6,Good
+USA,52,Male,Moya of Joynagar,Food Items,9,19,1,3.57,Excellent
+Canada,25,Female,Bandhanwars,Festivals/Decorative,7,7,4,3.69,Good
+Canada,56,Female,Madhubani Paintings,Diwali,1,20,7,4.15,Good
+Australia,41,Male,Prayer Flags,Buddhist Festivals,3,10,10,3.5,Good
+UK,55,Female,Ganesh Idols,Ganesh Chaturthi,3,16,5,3.8,Good
+Trinidad and Tobago,65,Female,Rakhis,Raksha Bandhan,4,15,10,4.19,Good
+Germany,61,Female,Madhubani Paintings,Diwali,1,10,2,4.47,Average
+Trinidad and Tobago,62,Male,Prayer Rugs,Ramadan/Eid,3,8,2,4.77,Good
+Australia,21,Female,Madhubani Paintings,Diwali,4,6,8,4.05,Good
+USA,57,Female,Bandhanwars,Festivals/Decorative,6,6,9,3.54,Good
+Australia,52,Female,Rakhis,Raksha Bandhan,1,11,2,3.42,Good
+France,36,Male,Pooja Thalis,Diwali,10,12,7,3.77,Good
+France,61,Male,Moya of Joynagar,Food Items,8,16,5,4.76,Good
+Trinidad and Tobago,61,Female,Moya of Joynagar,Food Items,5,8,4,4.01,Good
+UAE,37,Male,Moya of Joynagar,Food Items,2,8,7,4.16,Good
+UAE,31,Male,Madhubani Paintings,Diwali,9,16,4,4.72,Average
+USA,56,Female,Pooja Thalis,Diwali,6,9,7,3.15,Good
+Canada,47,Female,Bandhanwars,Festivals/Decorative,9,11,9,3.5,Good
+Canada,21,Male,Handicrafts of Santiniketan,Handicrafts,9,12,9,3.35,Average
+France,67,Female,Moya of Joynagar,Food Items,7,16,3,4.32,Good
+Canada,75,Female,Rakhis,Raksha Bandhan,6,17,7,3.12,Good
+Trinidad and Tobago,40,Male,Prayer Flags,Buddhist Festivals,1,11,6,3.66,Good
+South Africa,47,Male,Pagdis,Sikh Celebrations,8,10,1,3.84,Good
+USA,37,Female,Pagdis,Sikh Celebrations,8,7,8,4.36,Good
+UAE,52,Female,Moya of Joynagar,Food Items,7,7,8,3.98,Good
+Germany,40,Male,Rajasthani Puppets,Decorative,6,12,9,4.48,Good
+Australia,54,Female,Ganesh Idols,Ganesh Chaturthi,7,16,3,3.61,Good
+Trinidad and Tobago,74,Female,Terracotta Arts of Bishnupur,Decorative,10,5,10,4.62,Bad
+Canada,45,Male,Pagdis,Sikh Celebrations,7,8,2,3.81,Good
+Trinidad and Tobago,75,Male,Prayer Flags,Buddhist Festivals,6,19,7,3.96,Average
+Trinidad and Tobago,28,Male,Prayer Rugs,Ramadan/Eid,3,7,9,4.71,Good
+USA,66,Male,Terracotta Arts of Bishnupur,Decorative,1,14,10,4.51,Good
+France,50,Female,Pagdis,Sikh Celebrations,2,18,7,3.57,Average
+Trinidad and Tobago,32,Female,Ganesh Idols,Ganesh Chaturthi,4,9,6,3.68,Bad
+Australia,30,Male,Rajasthani Puppets,Decorative,1,5,9,4.55,Good
+UK,62,Male,Rakhis,Raksha Bandhan,2,8,9,3.33,Average
+UAE,70,Female,Ganesh Idols,Ganesh Chaturthi,1,19,8,3.88,Good
+UAE,30,Female,Pooja Thalis,Diwali,8,8,3,3.29,Good
+USA,47,Male,Pagdis,Sikh Celebrations,6,14,6,3.72,Average
+France,50,Male,Pagdis,Sikh Celebrations,6,16,8,4.23,Good
+Trinidad and Tobago,52,Male,Prayer Rugs,Ramadan/Eid,7,17,5,4.47,Good
+UK,72,Female,Rajasthani Puppets,Decorative,5,18,2,3.99,Good
+France,44,Female,Bandhanwars,Festivals/Decorative,6,6,3,4.32,Good
+South Africa,73,Female,Rakhis,Raksha Bandhan,8,17,3,3.58,Good
+UK,75,Male,Rakhis,Raksha Bandhan,10,8,6,4.55,Good
+Australia,58,Female,Prayer Flags,Buddhist Festivals,5,17,1,4.36,Good
+South Africa,64,Female,Rajasthani Puppets,Decorative,2,13,4,4.65,Good
+France,73,Male,Ganesh Idols,Ganesh Chaturthi,8,15,1,3.61,Average
+Canada,63,Female,Pooja Thalis,Diwali,2,15,1,4.2,Good
+UAE,57,Male,Prayer Rugs,Ramadan/Eid,5,9,9,3.69,Good
+South Africa,37,Female,Bandhanwars,Festivals/Decorative,7,20,1,3.96,Good
+South Africa,47,Female,Puja Samagri of Kumartuli,Handicrafts,7,7,7,3.09,Good
+Trinidad and Tobago,36,Male,Moya of Joynagar,Food Items,5,20,8,4.55,Good
+Australia,42,Female,Rakhis,Raksha Bandhan,10,7,9,4.44,Bad
+Germany,18,Male,Pagdis,Sikh Celebrations,5,12,2,3.31,Good
+Trinidad and Tobago,67,Male,Kurtas,Festivals/Weddings,7,5,2,4.66,Good
+USA,47,Male,Torans,Festivals/Decorative,10,10,5,4.54,Good
+UAE,35,Male,Moya of Joynagar,Food Items,6,19,7,3.99,Good
+UK,74,Male,Pooja Thalis,Diwali,3,13,6,3.63,Good
+Canada,54,Male,Pagdis,Sikh Celebrations,10,14,3,3.8,Good
+UK,67,Male,Prayer Rugs,Ramadan/Eid,5,18,9,3.51,Average
+UAE,20,Female,Sarees,Festivals/Weddings,1,14,4,4.74,Good
+France,75,Male,Prayer Rugs,Ramadan/Eid,8,17,4,3.32,Good
+Germany,44,Female,Prayer Rugs,Ramadan/Eid,4,14,10,4.29,Good
+Canada,62,Female,Torans,Festivals/Decorative,9,8,5,3.1,Good
+Australia,46,Female,Pooja Thalis,Diwali,2,7,9,3.94,Average
+Australia,72,Female,Rakhis,Raksha Bandhan,10,16,4,4.06,Excellent
+South Africa,70,Male,Rakhis,Raksha Bandhan,6,17,9,3.45,Good
+France,26,Male,Ganesh Idols,Ganesh Chaturthi,9,15,1,3.51,Excellent
+France,60,Male,Rajasthani Puppets,Decorative,3,15,2,3.11,Good
+Australia,25,Female,Warli Art,Decorative,2,19,1,4.38,Good
+Germany,32,Female,Rakhis,Raksha Bandhan,7,7,5,4.22,Good
+USA,49,Female,Pagdis,Sikh Celebrations,7,11,7,4.59,Good
+Canada,59,Female,Traditional Jewelry,Festivals/Weddings,2,17,7,3.8,Good
+France,56,Male,Prayer Flags,Buddhist Festivals,4,16,6,3.0,Good
+Trinidad and Tobago,49,Female,Prayer Rugs,Ramadan/Eid,1,14,6,4.29,Good
+Germany,32,Female,Prayer Rugs,Ramadan/Eid,7,17,2,4.54,Good
+Germany,21,Male,Rakhis,Raksha Bandhan,8,5,4,3.2,Good
+UK,45,Male,Ganesh Idols,Ganesh Chaturthi,1,5,2,4.22,Good
+UAE,36,Female,Ganesh Idols,Ganesh Chaturthi,2,20,9,3.05,Good
+Trinidad and Tobago,50,Female,Rakhis,Raksha Bandhan,6,10,5,3.66,Bad
+UK,47,Male,Sarees,Festivals/Weddings,10,11,3,3.28,Good
+Trinidad and Tobago,44,Female,Pooja Thalis,Diwali,3,19,7,3.92,Good
+UK,58,Male,Pooja Thalis,Diwali,1,8,8,3.77,Average
+UK,47,Female,Terracotta Arts of Bishnupur,Decorative,2,14,3,3.4,Average
+UAE,45,Female,Moya of Joynagar,Food Items,8,5,3,3.55,Good
+France,29,Male,Handicrafts of Santiniketan,Handicrafts,5,20,6,4.09,Good
+UK,31,Female,Pagdis,Sikh Celebrations,9,16,8,3.6,Average
+Canada,63,Female,Rakhis,Raksha Bandhan,5,8,7,4.3,Good
+Germany,69,Female,Mojaris,Festivals/Weddings,5,5,6,4.45,Good
+USA,41,Male,Terracotta Arts of Bishnupur,Decorative,3,5,6,3.79,Bad
+Australia,59,Female,Rakhis,Raksha Bandhan,6,10,1,3.51,Average
+South Africa,21,Female,Rajasthani Puppets,Decorative,4,5,10,3.9,Bad
+Australia,70,Female,Mojaris,Festivals/Weddings,8,6,2,3.48,Excellent
+South Africa,71,Female,Bandhanwars,Festivals/Decorative,7,8,6,3.36,Good
+South Africa,35,Female,Ganesh Idols,Ganesh Chaturthi,3,6,5,3.65,Good
+Australia,43,Female,Bandhanwars,Festivals/Decorative,4,16,1,4.66,Good
+UAE,56,Male,Handicrafts of Santiniketan,Handicrafts,1,19,9,4.46,Good
+UK,60,Female,Prayer Rugs,Ramadan/Eid,9,17,6,4.17,Average
+France,19,Female,Prayer Flags,Buddhist Festivals,3,7,4,3.61,Good
+Trinidad and Tobago,66,Male,Mojaris,Festivals/Weddings,10,12,1,4.77,Good
+USA,39,Female,Puja Samagri of Kumartuli,Handicrafts,3,7,3,3.9,Good
+France,52,Male,Kurtas,Festivals/Weddings,9,12,9,3.22,Average
+USA,60,Male,Handicrafts of Santiniketan,Handicrafts,1,17,7,4.05,Average
+France,71,Female,Rakhis,Raksha Bandhan,8,7,7,4.79,Good
+Australia,30,Female,Prayer Flags,Buddhist Festivals,5,17,3,4.68,Good
+USA,66,Female,Rajasthani Puppets,Decorative,8,20,4,3.12,Average
+France,70,Male,Prayer Rugs,Ramadan/Eid,10,8,1,3.44,Good
+France,39,Male,Kurtas,Festivals/Weddings,7,7,10,4.73,Average
+France,70,Male,Rakhis,Raksha Bandhan,2,5,1,4.39,Good
+Australia,58,Male,Rakhis,Raksha Bandhan,3,12,9,3.25,Good
+Trinidad and Tobago,40,Female,Puja Samagri of Kumartuli,Handicrafts,3,16,1,4.73,Bad
+Trinidad and Tobago,44,Female,Rangoli Colors,Diwali,8,10,9,3.9,Average
+Canada,34,Male,Prayer Flags,Buddhist Festivals,3,20,3,3.04,Good
+Australia,28,Female,Prayer Rugs,Ramadan/Eid,5,20,4,3.32,Good
+Canada,59,Female,Kurtas,Festivals/Weddings,1,16,8,3.49,Good
+Australia,26,Male,Pagdis,Sikh Celebrations,6,12,8,4.75,Good
+UAE,70,Female,Pagdis,Sikh Celebrations,1,16,9,3.11,Good
+UK,20,Male,Prayer Rugs,Ramadan/Eid,9,10,4,3.11,Bad
+UAE,75,Female,Warli Art,Decorative,1,18,3,4.37,Good
+Trinidad and Tobago,59,Female,Pagdis,Sikh Celebrations,8,20,6,3.15,Good
+Canada,50,Female,Bandhanwars,Festivals/Decorative,8,9,4,3.78,Good
+USA,56,Male,Ganesh Idols,Ganesh Chaturthi,1,14,9,4.69,Bad
+Australia,71,Male,Puja Samagri of Kumartuli,Handicrafts,7,9,4,3.73,Good
+Australia,75,Female,Puja Samagri of Kumartuli,Handicrafts,3,18,4,4.43,Good
+Trinidad and Tobago,24,Male,Puja Samagri of Kumartuli,Handicrafts,2,9,10,4.11,Average
+Canada,73,Male,Handicrafts of Santiniketan,Handicrafts,5,5,7,4.45,Good
+USA,53,Female,Moya of Joynagar,Food Items,5,8,6,3.9,Good
+USA,61,Male,Puja Samagri of Kumartuli,Handicrafts,3,20,4,3.07,Average
+UK,63,Male,Rakhis,Raksha Bandhan,7,20,3,3.07,Good
+Australia,72,Female,Handicrafts of Santiniketan,Handicrafts,4,17,10,3.21,Good
+UAE,66,Male,Pooja Thalis,Diwali,1,7,4,3.3,Good
+South Africa,47,Female,Puja Samagri of Kumartuli,Handicrafts,8,20,10,4.14,Good
+UK,29,Female,Moya of Joynagar,Food Items,7,10,5,3.22,Average
+USA,27,Male,Warli Art,Decorative,3,16,9,4.68,Good
+Trinidad and Tobago,33,Male,Prayer Flags,Buddhist Festivals,1,7,9,3.48,Good
+Canada,54,Male,Pooja Thalis,Diwali,6,17,2,4.8,Good
+Canada,23,Male,Prayer Rugs,Ramadan/Eid,4,9,5,4.16,Good
+UAE,51,Male,Prayer Rugs,Ramadan/Eid,3,19,3,3.85,Good
+Canada,37,Male,Rajasthani Puppets,Decorative,5,14,7,3.44,Good
+UK,28,Male,Torans,Festivals/Decorative,3,16,1,4.13,Good
+USA,74,Male,Handicrafts of Santiniketan,Handicrafts,1,6,10,4.42,Excellent
+Trinidad and Tobago,60,Female,Rakhis,Raksha Bandhan,9,16,8,3.28,Good
+UAE,18,Female,Pagdis,Sikh Celebrations,5,10,1,4.47,Average
+UK,39,Female,Madhubani Paintings,Diwali,3,17,3,4.43,Good
+South Africa,48,Male,Prayer Rugs,Ramadan/Eid,10,10,2,4.72,Good
+South Africa,57,Female,Prayer Rugs,Ramadan/Eid,4,14,1,3.9,Average
+Trinidad and Tobago,52,Female,Puja Samagri of Kumartuli,Handicrafts,1,16,4,3.58,Good
+Trinidad and Tobago,23,Male,Madhubani Paintings,Diwali,4,14,8,4.51,Average
+South Africa,22,Male,Ganesh Idols,Ganesh Chaturthi,8,14,7,4.1,Average
+France,24,Male,Moya of Joynagar,Food Items,10,16,5,4.49,Bad
+Trinidad and Tobago,66,Female,Terracotta Arts of Bishnupur,Decorative,6,9,9,3.72,Good
+Australia,38,Female,Moya of Joynagar,Food Items,3,13,8,4.22,Average
+USA,31,Male,Torans,Festivals/Decorative,8,7,9,4.57,Good
+Trinidad and Tobago,42,Female,Prayer Flags,Buddhist Festivals,6,7,6,4.7,Good
+France,22,Male,Warli Art,Decorative,3,10,3,4.36,Good
+UK,65,Female,Prayer Flags,Buddhist Festivals,6,18,3,3.75,Good
+South Africa,52,Female,Sarees,Festivals/Weddings,7,10,3,4.11,Good
+Trinidad and Tobago,48,Male,Prayer Rugs,Ramadan/Eid,1,17,2,3.27,Good
+Australia,42,Male,Prayer Flags,Buddhist Festivals,4,13,9,4.73,Average
+UAE,21,Female,Ganesh Idols,Ganesh Chaturthi,8,17,10,3.77,Good
+Trinidad and Tobago,31,Female,Handicrafts of Santiniketan,Handicrafts,8,6,10,4.65,Good
+Trinidad and Tobago,24,Male,Pagdis,Sikh Celebrations,2,11,2,4.53,Good
+South Africa,27,Female,Pooja Thalis,Diwali,9,17,7,3.69,Good
+South Africa,23,Female,Prayer Flags,Buddhist Festivals,4,11,6,4.56,Good
+France,44,Male,Rakhis,Raksha Bandhan,3,7,8,3.6,Good
+Germany,53,Female,Handicrafts of Santiniketan,Handicrafts,1,13,4,4.09,Good
+Trinidad and Tobago,19,Female,Rakhis,Raksha Bandhan,7,19,10,4.11,Good
+UK,49,Female,Torans,Festivals/Decorative,9,10,7,3.39,Average
+UK,59,Female,Prayer Flags,Buddhist Festivals,7,20,7,4.49,Average
+Australia,37,Male,Rakhis,Raksha Bandhan,8,15,3,4.18,Good
+France,33,Male,Bandhanwars,Festivals/Decorative,1,5,2,3.66,Good
+South Africa,39,Female,Rakhis,Raksha Bandhan,7,20,5,4.68,Excellent
+South Africa,27,Male,Prayer Flags,Buddhist Festivals,4,13,1,4.71,Excellent
+UAE,59,Male,Pagdis,Sikh Celebrations,7,20,4,4.3,Average
+USA,39,Male,Prayer Flags,Buddhist Festivals,3,15,4,4.42,Good
+Germany,20,Male,Prayer Rugs,Ramadan/Eid,4,17,4,3.93,Good
+Trinidad and Tobago,42,Female,Bandhanwars,Festivals/Decorative,2,17,8,4.41,Bad
+France,37,Female,Pagdis,Sikh Celebrations,6,5,5,4.42,Good
+Australia,31,Male,Moya of Joynagar,Food Items,9,8,7,4.42,Good
+USA,21,Female,Traditional Jewelry,Festivals/Weddings,10,19,9,3.9,Good
+Australia,53,Female,Pagdis,Sikh Celebrations,2,16,7,3.9,Average
+Canada,55,Female,Puja Samagri of Kumartuli,Handicrafts,2,6,4,4.35,Bad
+USA,58,Male,Prayer Rugs,Ramadan/Eid,6,19,10,4.51,Good
+Canada,41,Male,Moya of Joynagar,Food Items,6,17,5,4.77,Good
+Trinidad and Tobago,18,Male,Bandhanwars,Festivals/Decorative,6,5,8,3.33,Average
+France,27,Female,Rajasthani Puppets,Decorative,2,16,7,3.98,Good
+USA,20,Female,Ganesh Idols,Ganesh Chaturthi,5,19,5,3.48,Good
+France,35,Female,Rajasthani Puppets,Decorative,1,6,8,4.44,Good
+Germany,62,Male,Handicrafts of Santiniketan,Handicrafts,1,5,10,3.79,Bad
+South Africa,35,Female,Moya of Joynagar,Food Items,1,17,6,3.4,Good
+Germany,64,Male,Kurtas,Festivals/Weddings,3,20,8,3.55,Good
+France,60,Male,Prayer Flags,Buddhist Festivals,5,8,10,3.97,Average
+France,44,Female,Puja Samagri of Kumartuli,Handicrafts,5,9,2,3.05,Good
+Canada,24,Female,Prayer Flags,Buddhist Festivals,8,17,6,4.71,Excellent
+UAE,49,Female,Terracotta Arts of Bishnupur,Decorative,10,17,3,3.98,Excellent
+South Africa,75,Female,Pagdis,Sikh Celebrations,3,19,5,4.19,Excellent
+Australia,47,Female,Sarees,Festivals/Weddings,2,6,3,3.86,Good
+Australia,58,Male,Rakhis,Raksha Bandhan,2,11,8,3.45,Bad
+Canada,45,Female,Pagdis,Sikh Celebrations,9,12,5,3.88,Good
+UK,70,Female,Puja Samagri of Kumartuli,Handicrafts,6,7,2,3.44,Good
+UK,30,Female,Prayer Flags,Buddhist Festivals,7,17,10,4.7,Good
+Trinidad and Tobago,68,Male,Mojaris,Festivals/Weddings,6,13,1,4.27,Good
+UK,71,Female,Prayer Flags,Buddhist Festivals,6,11,6,4.18,Good
+France,59,Male,Moya of Joynagar,Food Items,6,16,2,4.45,Good
+Australia,38,Male,Bandhanwars,Festivals/Decorative,3,17,3,4.49,Good
+UK,42,Male,Sarees,Festivals/Weddings,3,20,7,3.38,Good
+Trinidad and Tobago,43,Male,Torans,Festivals/Decorative,4,7,5,3.75,Good
+Germany,68,Female,Pagdis,Sikh Celebrations,4,5,3,4.18,Good
+France,44,Male,Prayer Flags,Buddhist Festivals,1,16,4,3.74,Good
+USA,46,Female,Bandhanwars,Festivals/Decorative,2,10,5,3.01,Good
+USA,57,Male,Terracotta Arts of Bishnupur,Decorative,5,20,6,4.66,Good
+France,54,Female,Moya of Joynagar,Food Items,7,5,10,3.1,Good
+Trinidad and Tobago,74,Male,Pagdis,Sikh Celebrations,2,15,3,4.62,Good
+Trinidad and Tobago,60,Male,Prayer Flags,Buddhist Festivals,2,11,1,3.49,Good
+South Africa,71,Female,Prayer Flags,Buddhist Festivals,9,15,3,3.78,Good
+France,39,Male,Bandhanwars,Festivals/Decorative,7,11,10,3.33,Average
+France,24,Male,Rakhis,Raksha Bandhan,2,7,2,3.93,Good
+UK,63,Female,Madhubani Paintings,Diwali,10,8,7,3.08,Good
+Canada,34,Female,Prayer Rugs,Ramadan/Eid,3,20,9,3.77,Good
+USA,74,Male,Rajasthani Puppets,Decorative,2,16,4,4.35,Good
+Trinidad and Tobago,67,Male,Pagdis,Sikh Celebrations,2,15,4,4.19,Good
+Australia,38,Male,Rajasthani Puppets,Decorative,7,9,6,4.5,Good
+South Africa,23,Female,Prayer Flags,Buddhist Festivals,10,16,5,3.42,Good
+South Africa,54,Male,Prayer Flags,Buddhist Festivals,5,8,8,4.34,Good
+South Africa,73,Female,Prayer Flags,Buddhist Festivals,1,5,6,3.35,Excellent
+UK,57,Female,Prayer Flags,Buddhist Festivals,1,9,8,4.31,Bad
+Trinidad and Tobago,21,Female,Rangoli Colors,Diwali,3,19,10,3.02,Average
+South Africa,74,Male,Prayer Flags,Buddhist Festivals,9,19,5,4.17,Average
+South Africa,30,Female,Pagdis,Sikh Celebrations,1,14,4,3.14,Average
+Trinidad and Tobago,19,Male,Prayer Flags,Buddhist Festivals,3,15,7,3.62,Good
+UK,75,Male,Moya of Joynagar,Food Items,3,5,5,3.39,Good
+Trinidad and Tobago,66,Male,Rakhis,Raksha Bandhan,4,10,3,4.23,Good
+Canada,25,Female,Rakhis,Raksha Bandhan,2,20,4,4.01,Excellent
+France,25,Female,Sarees,Festivals/Weddings,6,13,5,4.62,Average
+Canada,60,Male,Pagdis,Sikh Celebrations,9,15,10,4.37,Good
+Trinidad and Tobago,18,Female,Prayer Flags,Buddhist Festivals,7,19,2,3.64,Good
+Germany,63,Male,Traditional Jewelry,Festivals/Weddings,9,12,7,3.26,Good
+Canada,48,Female,Pagdis,Sikh Celebrations,8,6,4,3.38,Good
+Canada,28,Male,Rakhis,Raksha Bandhan,10,8,7,4.73,Average
+USA,67,Male,Ganesh Idols,Ganesh Chaturthi,1,8,8,3.99,Good
+Germany,71,Male,Puja Samagri of Kumartuli,Handicrafts,6,13,1,3.65,Average
+UK,25,Female,Terracotta Arts of Bishnupur,Decorative,6,8,6,3.32,Good
+Germany,40,Female,Puja Samagri of Kumartuli,Handicrafts,3,18,4,3.54,Good
+Canada,36,Female,Ganesh Idols,Ganesh Chaturthi,8,15,3,3.72,Good
+Australia,54,Male,Ganesh Idols,Ganesh Chaturthi,6,11,4,4.31,Average
+Canada,31,Male,Traditional Jewelry,Festivals/Weddings,1,16,2,4.29,Excellent
+Australia,49,Male,Sarees,Festivals/Weddings,9,17,4,4.17,Average
+UK,41,Male,Handicrafts of Santiniketan,Handicrafts,8,7,3,3.5,Good
+USA,73,Male,Traditional Jewelry,Festivals/Weddings,1,7,3,4.35,Bad
+South Africa,52,Male,Prayer Flags,Buddhist Festivals,6,17,7,4.09,Good
+USA,39,Female,Prayer Rugs,Ramadan/Eid,9,12,10,3.67,Good
+UK,32,Female,Terracotta Arts of Bishnupur,Decorative,3,14,10,3.3,Good
+South Africa,45,Female,Rajasthani Puppets,Decorative,10,11,8,4.75,Good
+Trinidad and Tobago,52,Male,Bandhanwars,Festivals/Decorative,3,10,6,3.92,Bad
+Trinidad and Tobago,26,Female,Moya of Joynagar,Food Items,3,6,8,4.42,Good
+South Africa,61,Male,Mojaris,Festivals/Weddings,2,8,10,4.78,Good
+Canada,19,Male,Pagdis,Sikh Celebrations,1,7,5,4.7,Good
+France,52,Female,Pagdis,Sikh Celebrations,7,8,2,3.08,Average
+South Africa,27,Male,Prayer Rugs,Ramadan/Eid,7,7,7,4.04,Excellent
+Canada,19,Male,Prayer Flags,Buddhist Festivals,3,13,10,3.08,Good
+Trinidad and Tobago,26,Male,Bandhanwars,Festivals/Decorative,1,6,3,3.96,Good
+Canada,61,Female,Terracotta Arts of Bishnupur,Decorative,7,5,9,3.76,Average
+USA,20,Male,Prayer Flags,Buddhist Festivals,8,13,2,4.0,Good
+Canada,23,Female,Rangoli Colors,Diwali,1,12,10,3.28,Good
+Germany,63,Male,Pagdis,Sikh Celebrations,5,18,4,3.49,Good
+UK,30,Female,Torans,Festivals/Decorative,3,19,10,3.63,Average
+UAE,73,Female,Ganesh Idols,Ganesh Chaturthi,9,7,3,3.65,Good
+Trinidad and Tobago,27,Female,Prayer Flags,Buddhist Festivals,4,12,7,3.76,Good
+UAE,40,Female,Puja Samagri of Kumartuli,Handicrafts,5,11,2,3.94,Good
+USA,65,Female,Prayer Rugs,Ramadan/Eid,9,12,9,3.26,Good
+UAE,29,Male,Pagdis,Sikh Celebrations,9,6,4,4.74,Average
+UK,58,Male,Rakhis,Raksha Bandhan,1,16,3,3.11,Good
+Canada,60,Female,Prayer Rugs,Ramadan/Eid,2,15,9,3.65,Good
+Trinidad and Tobago,52,Female,Pagdis,Sikh Celebrations,1,8,8,4.05,Good
+South Africa,72,Male,Handicrafts of Santiniketan,Handicrafts,1,12,1,3.3,Good
+Germany,51,Male,Terracotta Arts of Bishnupur,Decorative,7,20,10,3.39,Excellent
+UAE,46,Male,Warli Art,Decorative,5,11,10,3.55,Good
+Trinidad and Tobago,41,Male,Sarees,Festivals/Weddings,2,16,4,3.21,Good
+Germany,34,Female,Rakhis,Raksha Bandhan,10,8,10,3.71,Good
+Canada,41,Female,Puja Samagri of Kumartuli,Handicrafts,7,12,9,3.35,Good
+Australia,23,Male,Rakhis,Raksha Bandhan,1,8,1,3.77,Good
+UK,60,Male,Prayer Rugs,Ramadan/Eid,3,9,9,3.3,Average
+UK,48,Male,Pagdis,Sikh Celebrations,4,18,7,3.19,Good
+South Africa,55,Female,Sarees,Festivals/Weddings,4,5,1,4.17,Good
+France,48,Male,Rangoli Colors,Diwali,3,20,6,3.37,Good
+Trinidad and Tobago,71,Male,Ganesh Idols,Ganesh Chaturthi,8,14,7,3.2,Good
+USA,62,Male,Mojaris,Festivals/Weddings,7,14,2,4.01,Good
+Australia,56,Male,Pagdis,Sikh Celebrations,5,16,1,4.33,Good
+USA,51,Female,Moya of Joynagar,Food Items,5,6,8,3.99,Good
+USA,74,Female,Mojaris,Festivals/Weddings,2,17,2,3.55,Excellent
+Trinidad and Tobago,31,Female,Madhubani Paintings,Diwali,10,15,7,3.52,Good
+UAE,62,Female,Pooja Thalis,Diwali,7,15,2,3.46,Good
+Germany,56,Male,Ganesh Idols,Ganesh Chaturthi,9,8,2,4.71,Good
+UK,48,Female,Prayer Flags,Buddhist Festivals,9,12,6,4.69,Good
+France,59,Female,Pagdis,Sikh Celebrations,8,14,9,3.92,Bad
+South Africa,21,Female,Ganesh Idols,Ganesh Chaturthi,10,8,2,3.47,Good
+Trinidad and Tobago,74,Male,Torans,Festivals/Decorative,7,18,9,3.13,Good
+UAE,55,Female,Moya of Joynagar,Food Items,8,7,10,4.0,Good
+Trinidad and Tobago,34,Male,Puja Samagri of Kumartuli,Handicrafts,6,10,6,3.81,Good
+UAE,24,Male,Pagdis,Sikh Celebrations,4,9,6,4.39,Good
+USA,28,Female,Ganesh Idols,Ganesh Chaturthi,7,19,8,3.2,Good
+USA,74,Male,Prayer Rugs,Ramadan/Eid,8,14,1,3.96,Good
+USA,23,Male,Moya of Joynagar,Food Items,10,15,7,4.68,Good
+Australia,34,Female,Pagdis,Sikh Celebrations,9,18,1,4.79,Good
+France,70,Female,Pagdis,Sikh Celebrations,7,5,8,3.44,Good
+Trinidad and Tobago,63,Male,Prayer Flags,Buddhist Festivals,9,17,6,4.48,Good
+Trinidad and Tobago,62,Female,Rakhis,Raksha Bandhan,6,11,3,4.21,Good
+Trinidad and Tobago,67,Female,Mojaris,Festivals/Weddings,6,8,5,3.43,Good
+Germany,47,Male,Ganesh Idols,Ganesh Chaturthi,8,10,1,4.03,Good
+France,49,Female,Ganesh Idols,Ganesh Chaturthi,9,18,10,4.63,Good
+South Africa,68,Female,Rajasthani Puppets,Decorative,1,9,9,3.22,Good
+Germany,72,Male,Prayer Flags,Buddhist Festivals,7,20,4,3.43,Good
+Germany,31,Male,Mojaris,Festivals/Weddings,8,14,9,3.56,Average
+UK,22,Female,Pagdis,Sikh Celebrations,7,12,8,3.21,Good
+France,27,Female,Bandhanwars,Festivals/Decorative,4,12,10,4.36,Bad
+France,47,Male,Moya of Joynagar,Food Items,10,20,5,4.75,Good
+Germany,71,Male,Moya of Joynagar,Food Items,9,5,10,4.0,Bad
+UK,47,Male,Rakhis,Raksha Bandhan,10,20,9,4.73,Good
+USA,30,Female,Warli Art,Decorative,10,6,3,4.35,Average
+Germany,37,Male,Pooja Thalis,Diwali,2,19,4,3.64,Good
+South Africa,27,Male,Prayer Flags,Buddhist Festivals,1,18,3,3.36,Good
+Trinidad and Tobago,75,Female,Madhubani Paintings,Diwali,3,17,8,3.07,Good
+France,42,Female,Bandhanwars,Festivals/Decorative,9,9,3,3.86,Average
+France,60,Male,Prayer Flags,Buddhist Festivals,9,18,4,3.12,Bad
+Trinidad and Tobago,72,Female,Moya of Joynagar,Food Items,4,20,9,4.78,Good
+UAE,69,Female,Kurtas,Festivals/Weddings,1,9,3,4.63,Good
+Canada,51,Male,Rakhis,Raksha Bandhan,7,9,8,3.34,Good
+UAE,35,Female,Puja Samagri of Kumartuli,Handicrafts,3,11,3,3.48,Good
+Germany,41,Female,Madhubani Paintings,Diwali,4,8,7,4.6,Bad
+Australia,29,Female,Pagdis,Sikh Celebrations,5,15,6,3.61,Average
+Germany,21,Female,Handicrafts of Santiniketan,Handicrafts,5,14,7,4.65,Good
+UK,59,Female,Madhubani Paintings,Diwali,1,9,3,4.46,Good
+Canada,64,Female,Pooja Thalis,Diwali,10,18,8,4.49,Excellent
+Australia,60,Male,Pagdis,Sikh Celebrations,3,12,7,4.05,Average
+USA,19,Male,Puja Samagri of Kumartuli,Handicrafts,10,20,8,4.78,Good
+UK,44,Female,Traditional Jewelry,Festivals/Weddings,8,13,10,3.91,Good
+South Africa,59,Female,Madhubani Paintings,Diwali,10,12,4,4.47,Average
+Trinidad and Tobago,73,Female,Kurtas,Festivals/Weddings,1,5,5,3.25,Good
+UK,35,Male,Ganesh Idols,Ganesh Chaturthi,9,10,8,3.95,Good
+South Africa,22,Male,Prayer Rugs,Ramadan/Eid,8,8,1,4.36,Good
+Trinidad and Tobago,74,Male,Prayer Rugs,Ramadan/Eid,4,20,7,4.41,Average
+Australia,75,Male,Rangoli Colors,Diwali,1,13,2,4.45,Bad
+Germany,70,Female,Handicrafts of Santiniketan,Handicrafts,5,5,5,3.37,Average
+Germany,68,Male,Prayer Rugs,Ramadan/Eid,1,20,8,3.54,Bad
+Trinidad and Tobago,64,Female,Rakhis,Raksha Bandhan,6,19,5,4.62,Average
+Canada,50,Female,Pagdis,Sikh Celebrations,2,10,5,3.85,Average
+Trinidad and Tobago,43,Male,Prayer Flags,Buddhist Festivals,2,12,4,3.01,Average
+USA,21,Female,Pagdis,Sikh Celebrations,5,20,9,3.12,Good
+Australia,51,Female,Madhubani Paintings,Diwali,2,18,7,3.87,Average
+Trinidad and Tobago,71,Female,Moya of Joynagar,Food Items,3,17,9,3.98,Good
+Canada,48,Male,Moya of Joynagar,Food Items,8,20,8,3.13,Excellent
+Trinidad and Tobago,63,Male,Handicrafts of Santiniketan,Handicrafts,3,13,3,3.55,Average
+France,29,Male,Puja Samagri of Kumartuli,Handicrafts,7,18,9,3.14,Good
+Germany,41,Female,Prayer Rugs,Ramadan/Eid,5,19,1,3.99,Good
+Germany,64,Male,Prayer Flags,Buddhist Festivals,3,18,6,4.15,Average
+Canada,58,Male,Bandhanwars,Festivals/Decorative,4,17,6,3.46,Good
+Canada,32,Female,Rajasthani Puppets,Decorative,5,10,1,3.89,Good
+France,65,Female,Puja Samagri of Kumartuli,Handicrafts,2,15,9,4.67,Good
+USA,64,Female,Prayer Flags,Buddhist Festivals,9,5,7,4.18,Average
+USA,74,Female,Prayer Rugs,Ramadan/Eid,9,14,2,4.8,Good
+Canada,72,Female,Moya of Joynagar,Food Items,9,19,7,4.75,Excellent
+Australia,27,Male,Rakhis,Raksha Bandhan,2,5,1,3.87,Average
+UK,65,Female,Prayer Flags,Buddhist Festivals,8,9,1,4.25,Good
+UK,54,Female,Warli Art,Decorative,3,6,8,4.33,Good
+USA,64,Male,Traditional Jewelry,Festivals/Weddings,6,20,8,4.74,Good
+UAE,43,Female,Traditional Jewelry,Festivals/Weddings,9,11,5,3.34,Good
+Germany,53,Male,Kurtas,Festivals/Weddings,3,13,4,3.06,Good
+Trinidad and Tobago,42,Female,Kurtas,Festivals/Weddings,2,15,3,3.49,Excellent
+Australia,38,Male,Handicrafts of Santiniketan,Handicrafts,1,14,6,4.75,Good
+UAE,46,Female,Torans,Festivals/Decorative,5,17,5,3.3,Average
+France,41,Male,Moya of Joynagar,Food Items,9,10,6,3.14,Good
+Canada,67,Male,Pagdis,Sikh Celebrations,3,17,9,4.22,Excellent
+UAE,61,Male,Bandhanwars,Festivals/Decorative,9,10,10,3.54,Good
+Germany,69,Male,Pagdis,Sikh Celebrations,8,17,6,4.6,Good
+Trinidad and Tobago,36,Female,Rakhis,Raksha Bandhan,4,5,6,3.3,Average
+UK,51,Female,Prayer Flags,Buddhist Festivals,9,13,2,4.54,Average
+France,24,Male,Terracotta Arts of Bishnupur,Decorative,5,11,8,4.05,Good
+Germany,48,Male,Handicrafts of Santiniketan,Handicrafts,5,11,6,3.02,Good
+France,53,Female,Prayer Flags,Buddhist Festivals,7,18,10,4.23,Good
+USA,35,Male,Moya of Joynagar,Food Items,1,20,6,4.57,Average
+Canada,50,Male,Rakhis,Raksha Bandhan,8,15,5,3.02,Average
+Trinidad and Tobago,72,Male,Pagdis,Sikh Celebrations,9,10,2,4.4,Excellent
+USA,56,Male,Torans,Festivals/Decorative,3,20,2,3.83,Excellent
+USA,41,Female,Pagdis,Sikh Celebrations,10,14,3,3.06,Average
+Trinidad and Tobago,74,Male,Puja Samagri of Kumartuli,Handicrafts,2,13,4,4.69,Good
+UAE,42,Female,Pooja Thalis,Diwali,10,18,10,3.85,Good
+France,58,Male,Sarees,Festivals/Weddings,2,11,8,3.32,Average
+UK,62,Male,Prayer Flags,Buddhist Festivals,6,13,3,3.87,Good
+Germany,28,Female,Puja Samagri of Kumartuli,Handicrafts,5,16,4,3.89,Excellent
+South Africa,33,Female,Handicrafts of Santiniketan,Handicrafts,7,18,6,4.44,Good
+Germany,32,Male,Moya of Joynagar,Food Items,3,6,9,3.24,Average
+South Africa,69,Male,Moya of Joynagar,Food Items,7,7,2,4.5,Average
+France,37,Male,Kurtas,Festivals/Weddings,9,15,10,4.05,Good
+France,56,Male,Prayer Rugs,Ramadan/Eid,6,20,7,4.2,Good
+UK,50,Female,Warli Art,Decorative,10,10,5,3.18,Excellent
+Trinidad and Tobago,41,Female,Prayer Rugs,Ramadan/Eid,6,11,7,3.46,Good
+Australia,38,Female,Ganesh Idols,Ganesh Chaturthi,3,20,2,4.54,Good
+UAE,19,Male,Pagdis,Sikh Celebrations,1,17,6,3.29,Average
+Australia,28,Female,Moya of Joynagar,Food Items,2,19,7,3.01,Average
+France,53,Female,Puja Samagri of Kumartuli,Handicrafts,1,18,5,3.81,Good
+France,43,Male,Prayer Rugs,Ramadan/Eid,3,6,1,4.73,Good
+France,22,Female,Rajasthani Puppets,Decorative,8,13,4,3.65,Good
+USA,51,Female,Rakhis,Raksha Bandhan,2,17,4,3.52,Good
+Australia,32,Female,Rajasthani Puppets,Decorative,1,8,1,4.02,Good
+Trinidad and Tobago,60,Male,Rakhis,Raksha Bandhan,4,15,5,3.56,Good
+Trinidad and Tobago,45,Male,Terracotta Arts of Bishnupur,Decorative,8,12,3,4.2,Average
+USA,32,Male,Rakhis,Raksha Bandhan,6,7,7,3.57,Good
+Canada,48,Female,Terracotta Arts of Bishnupur,Decorative,4,13,5,4.36,Good
+Trinidad and Tobago,30,Female,Rakhis,Raksha Bandhan,9,5,9,4.53,Average
+Canada,48,Male,Madhubani Paintings,Diwali,5,18,9,4.31,Average
+Trinidad and Tobago,72,Male,Rangoli Colors,Diwali,3,20,7,4.61,Average
+Canada,28,Female,Rangoli Colors,Diwali,7,5,2,4.76,Average
+Canada,36,Male,Prayer Rugs,Ramadan/Eid,9,9,8,3.51,Good
+UK,24,Male,Prayer Flags,Buddhist Festivals,6,12,3,3.95,Excellent
+UK,52,Male,Moya of Joynagar,Food Items,5,14,3,4.16,Good
+South Africa,43,Female,Rajasthani Puppets,Decorative,6,5,9,3.27,Good
+USA,40,Male,Bandhanwars,Festivals/Decorative,7,9,6,4.3,Good
+Germany,31,Female,Rangoli Colors,Diwali,7,20,2,3.1,Good
+Canada,52,Male,Bandhanwars,Festivals/Decorative,5,17,3,3.81,Good
+Trinidad and Tobago,44,Male,Ganesh Idols,Ganesh Chaturthi,9,17,6,3.59,Good
+South Africa,28,Male,Prayer Rugs,Ramadan/Eid,7,11,4,3.83,Good
+South Africa,73,Male,Pagdis,Sikh Celebrations,10,7,8,3.24,Good
+Germany,18,Female,Moya of Joynagar,Food Items,5,17,2,4.28,Bad
+UAE,69,Female,Rangoli Colors,Diwali,8,7,4,4.19,Good
+UK,26,Male,Madhubani Paintings,Diwali,1,9,5,3.93,Good
+Trinidad and Tobago,49,Male,Moya of Joynagar,Food Items,3,9,9,3.1,Bad
+UK,61,Male,Bandhanwars,Festivals/Decorative,3,19,4,4.18,Good
+Australia,71,Female,Rajasthani Puppets,Decorative,7,6,5,4.33,Good
+Trinidad and Tobago,50,Female,Pagdis,Sikh Celebrations,5,19,5,3.71,Average
+USA,35,Female,Rakhis,Raksha Bandhan,2,8,5,3.84,Average
+Germany,31,Male,Pagdis,Sikh Celebrations,3,8,10,4.57,Good
+UK,55,Male,Rakhis,Raksha Bandhan,4,14,2,3.65,Good
+UK,40,Male,Puja Samagri of Kumartuli,Handicrafts,10,19,5,3.61,Average
+UK,54,Male,Prayer Rugs,Ramadan/Eid,10,15,5,4.49,Good
+France,75,Female,Moya of Joynagar,Food Items,1,19,8,3.64,Good
+Trinidad and Tobago,42,Male,Prayer Rugs,Ramadan/Eid,5,14,6,3.52,Average
+UK,56,Male,Terracotta Arts of Bishnupur,Decorative,10,19,9,4.69,Bad
+Germany,47,Male,Prayer Flags,Buddhist Festivals,3,16,5,3.45,Average
+USA,66,Female,Torans,Festivals/Decorative,4,14,9,4.59,Excellent
+Germany,38,Female,Ganesh Idols,Ganesh Chaturthi,5,17,10,3.68,Good
+Australia,54,Male,Prayer Rugs,Ramadan/Eid,4,16,9,3.52,Average
+Trinidad and Tobago,50,Male,Pooja Thalis,Diwali,4,13,9,3.51,Good
+UAE,52,Female,Pagdis,Sikh Celebrations,10,16,5,3.02,Good
+Germany,70,Male,Ganesh Idols,Ganesh Chaturthi,7,16,6,3.78,Good
+UAE,46,Female,Prayer Rugs,Ramadan/Eid,6,14,9,3.94,Good
+USA,62,Male,Bandhanwars,Festivals/Decorative,5,13,2,3.66,Good
+Trinidad and Tobago,61,Male,Sarees,Festivals/Weddings,9,9,8,3.46,Good
+USA,26,Female,Pooja Thalis,Diwali,4,9,5,4.15,Good
+USA,75,Female,Madhubani Paintings,Diwali,10,15,6,3.61,Good
+Trinidad and Tobago,66,Male,Rakhis,Raksha Bandhan,6,20,2,3.79,Good
+France,75,Male,Rakhis,Raksha Bandhan,3,15,7,4.0,Good
+South Africa,23,Male,Rakhis,Raksha Bandhan,7,8,6,3.31,Good
+Canada,47,Female,Prayer Flags,Buddhist Festivals,9,16,3,4.58,Average
+Germany,63,Male,Ganesh Idols,Ganesh Chaturthi,4,13,6,4.39,Good
+Trinidad and Tobago,40,Female,Prayer Rugs,Ramadan/Eid,3,14,5,3.83,Good
+UK,29,Female,Pagdis,Sikh Celebrations,2,18,3,3.15,Average
+Canada,57,Female,Terracotta Arts of Bishnupur,Decorative,6,6,3,4.3,Good
+USA,20,Female,Prayer Rugs,Ramadan/Eid,5,8,6,3.72,Average
+Trinidad and Tobago,32,Female,Warli Art,Decorative,10,9,8,4.46,Good
+USA,30,Male,Ganesh Idols,Ganesh Chaturthi,4,16,1,3.45,Average
+Trinidad and Tobago,36,Male,Rakhis,Raksha Bandhan,1,9,1,3.11,Good
+USA,74,Female,Moya of Joynagar,Food Items,10,10,6,4.01,Good
+UK,28,Male,Pagdis,Sikh Celebrations,7,17,5,4.13,Average
+USA,20,Male,Handicrafts of Santiniketan,Handicrafts,5,13,1,3.64,Good
+South Africa,55,Male,Rakhis,Raksha Bandhan,7,14,10,3.59,Good
+France,34,Female,Pagdis,Sikh Celebrations,9,13,6,4.69,Good
+South Africa,67,Female,Kurtas,Festivals/Weddings,2,13,9,3.39,Average
+Germany,32,Male,Madhubani Paintings,Diwali,2,7,8,3.71,Bad
+UAE,59,Female,Ganesh Idols,Ganesh Chaturthi,8,7,5,4.02,Good
+France,72,Female,Rakhis,Raksha Bandhan,4,18,9,3.33,Good
+UAE,70,Female,Rajasthani Puppets,Decorative,6,18,8,3.34,Good
+Australia,72,Female,Mojaris,Festivals/Weddings,2,15,1,3.21,Good
+Germany,69,Female,Rajasthani Puppets,Decorative,8,11,1,4.67,Good
+Canada,20,Male,Madhubani Paintings,Diwali,6,9,6,3.36,Average
+South Africa,24,Male,Handicrafts of Santiniketan,Handicrafts,10,12,7,3.67,Excellent
+Australia,55,Male,Ganesh Idols,Ganesh Chaturthi,7,9,2,4.12,Good
+South Africa,58,Female,Madhubani Paintings,Diwali,6,5,5,3.56,Bad
+USA,33,Female,Moya of Joynagar,Food Items,5,16,5,3.18,Good
+Germany,30,Male,Pooja Thalis,Diwali,4,6,6,3.61,Good
+UAE,57,Male,Prayer Rugs,Ramadan/Eid,7,15,3,4.53,Good
+Australia,18,Male,Ganesh Idols,Ganesh Chaturthi,8,10,2,3.88,Good
+Germany,71,Female,Handicrafts of Santiniketan,Handicrafts,9,16,5,3.25,Average
+France,58,Female,Pagdis,Sikh Celebrations,5,9,9,4.06,Good
+UAE,71,Male,Rakhis,Raksha Bandhan,9,7,4,4.39,Good
+South Africa,50,Male,Rakhis,Raksha Bandhan,10,7,5,4.53,Good
+South Africa,42,Male,Bandhanwars,Festivals/Decorative,6,9,6,4.01,Good
+Canada,39,Female,Pagdis,Sikh Celebrations,9,12,1,3.91,Good
+South Africa,73,Male,Pooja Thalis,Diwali,9,10,1,3.23,Good
+Germany,50,Female,Pagdis,Sikh Celebrations,5,5,1,3.27,Good
+Trinidad and Tobago,36,Female,Prayer Rugs,Ramadan/Eid,9,16,10,4.34,Good
+USA,54,Female,Prayer Flags,Buddhist Festivals,10,16,2,3.14,Good
+UK,27,Male,Puja Samagri of Kumartuli,Handicrafts,1,15,5,4.55,Good
+South Africa,68,Male,Rakhis,Raksha Bandhan,7,13,1,3.71,Average
+UAE,54,Male,Prayer Rugs,Ramadan/Eid,10,5,7,3.59,Good
+UK,38,Male,Prayer Rugs,Ramadan/Eid,8,7,8,3.44,Average
+Germany,27,Female,Pooja Thalis,Diwali,9,8,2,3.83,Bad
+Canada,72,Male,Prayer Rugs,Ramadan/Eid,4,8,10,4.66,Average
+Australia,36,Female,Ganesh Idols,Ganesh Chaturthi,6,18,5,4.74,Good
+Germany,22,Male,Moya of Joynagar,Food Items,8,6,3,3.16,Good
+UAE,36,Male,Puja Samagri of Kumartuli,Handicrafts,6,11,8,3.98,Good
+Australia,57,Female,Handicrafts of Santiniketan,Handicrafts,5,17,6,3.98,Average
+Germany,46,Female,Puja Samagri of Kumartuli,Handicrafts,1,6,2,3.81,Good
+Germany,31,Male,Ganesh Idols,Ganesh Chaturthi,2,17,5,4.34,Good
+South Africa,45,Male,Moya of Joynagar,Food Items,3,8,6,3.74,Good
+UAE,35,Male,Moya of Joynagar,Food Items,1,7,7,4.77,Good
+USA,32,Male,Puja Samagri of Kumartuli,Handicrafts,9,10,9,3.92,Good
+France,58,Male,Mojaris,Festivals/Weddings,10,18,10,3.95,Average
+South Africa,25,Female,Moya of Joynagar,Food Items,10,14,5,3.51,Average
+South Africa,42,Male,Ganesh Idols,Ganesh Chaturthi,7,10,8,3.8,Good
+Australia,25,Male,Torans,Festivals/Decorative,6,11,1,4.15,Good
+Canada,40,Male,Warli Art,Decorative,3,11,1,3.53,Bad
+Trinidad and Tobago,69,Male,Ganesh Idols,Ganesh Chaturthi,7,8,6,4.73,Good
+UK,35,Female,Moya of Joynagar,Food Items,1,17,3,4.71,Good
+UK,65,Female,Pagdis,Sikh Celebrations,7,10,9,4.04,Excellent
+UAE,37,Female,Prayer Rugs,Ramadan/Eid,8,15,1,3.84,Good
+Trinidad and Tobago,42,Female,Torans,Festivals/Decorative,10,7,2,3.15,Good
+South Africa,35,Male,Prayer Flags,Buddhist Festivals,6,7,2,4.07,Good
+UAE,46,Female,Warli Art,Decorative,4,7,10,4.4,Good
+Canada,23,Male,Moya of Joynagar,Food Items,7,13,9,4.74,Bad
+Australia,74,Male,Prayer Rugs,Ramadan/Eid,9,16,10,4.42,Bad
+UAE,59,Male,Madhubani Paintings,Diwali,5,7,4,4.28,Good
+Trinidad and Tobago,29,Female,Mojaris,Festivals/Weddings,1,14,10,3.53,Good
+Australia,73,Male,Prayer Rugs,Ramadan/Eid,9,20,10,3.16,Average
+South Africa,61,Male,Puja Samagri of Kumartuli,Handicrafts,10,14,8,4.25,Bad
+UK,70,Female,Prayer Flags,Buddhist Festivals,2,6,7,3.99,Good
+Trinidad and Tobago,18,Female,Handicrafts of Santiniketan,Handicrafts,7,13,5,4.27,Good
+Australia,25,Male,Bandhanwars,Festivals/Decorative,9,14,2,3.15,Good
+UAE,68,Male,Pagdis,Sikh Celebrations,5,5,8,3.91,Good
+UAE,47,Male,Terracotta Arts of Bishnupur,Decorative,8,7,8,3.61,Good
+UK,35,Male,Ganesh Idols,Ganesh Chaturthi,10,14,4,3.59,Good
+Australia,50,Male,Prayer Rugs,Ramadan/Eid,7,6,9,3.15,Good
+Canada,50,Female,Moya of Joynagar,Food Items,10,10,3,4.65,Good
+UAE,39,Male,Moya of Joynagar,Food Items,7,14,8,3.01,Bad
+France,75,Male,Puja Samagri of Kumartuli,Handicrafts,5,12,7,4.76,Good
+Trinidad and Tobago,58,Female,Madhubani Paintings,Diwali,5,17,1,3.06,Good
+USA,30,Female,Pagdis,Sikh Celebrations,2,13,9,3.34,Average
+South Africa,54,Male,Rakhis,Raksha Bandhan,5,6,10,4.42,Good
+UK,36,Male,Prayer Flags,Buddhist Festivals,1,5,3,3.44,Good
+UAE,62,Female,Prayer Flags,Buddhist Festivals,1,12,8,3.23,Average
+Australia,39,Male,Pooja Thalis,Diwali,8,15,8,3.7,Good
+USA,69,Male,Torans,Festivals/Decorative,9,9,1,4.55,Good
+UK,41,Male,Torans,Festivals/Decorative,7,16,5,4.6,Average
+South Africa,40,Male,Rajasthani Puppets,Decorative,10,17,7,3.02,Good
+USA,67,Female,Ganesh Idols,Ganesh Chaturthi,6,10,7,3.61,Good
+UK,24,Male,Rakhis,Raksha Bandhan,9,18,1,3.12,Good
+Germany,47,Female,Madhubani Paintings,Diwali,8,10,3,4.52,Good
+Trinidad and Tobago,38,Male,Bandhanwars,Festivals/Decorative,4,7,1,3.53,Good
+USA,36,Female,Moya of Joynagar,Food Items,8,5,1,3.86,Average
+Canada,57,Female,Pagdis,Sikh Celebrations,8,16,5,3.33,Good
+UAE,73,Female,Prayer Rugs,Ramadan/Eid,7,17,3,3.41,Good
+UK,74,Female,Torans,Festivals/Decorative,4,11,2,4.42,Good
+South Africa,28,Female,Prayer Rugs,Ramadan/Eid,5,13,9,3.06,Good
+France,51,Male,Bandhanwars,Festivals/Decorative,10,6,7,3.69,Good
+Trinidad and Tobago,66,Male,Sarees,Festivals/Weddings,2,11,3,3.61,Good
+UAE,65,Female,Pagdis,Sikh Celebrations,7,5,6,4.64,Average
+South Africa,29,Male,Prayer Flags,Buddhist Festivals,6,20,2,4.0,Good
+Australia,51,Male,Terracotta Arts of Bishnupur,Decorative,3,9,1,4.0,Average
+Germany,44,Female,Bandhanwars,Festivals/Decorative,3,10,2,3.58,Good
+USA,75,Male,Torans,Festivals/Decorative,7,17,9,4.08,Good
+UAE,56,Male,Moya of Joynagar,Food Items,6,5,8,3.2,Good
+France,24,Male,Prayer Rugs,Ramadan/Eid,2,12,6,3.85,Average
+Germany,37,Male,Handicrafts of Santiniketan,Handicrafts,9,15,5,4.08,Good
+Canada,74,Female,Moya of Joynagar,Food Items,8,5,1,4.28,Average
+Canada,60,Female,Rakhis,Raksha Bandhan,3,7,8,3.4,Good
+Canada,51,Male,Prayer Flags,Buddhist Festivals,5,18,4,4.52,Good
+Trinidad and Tobago,54,Male,Ganesh Idols,Ganesh Chaturthi,3,7,1,4.47,Good
+Germany,67,Male,Moya of Joynagar,Food Items,1,16,8,3.33,Good
+Australia,65,Male,Moya of Joynagar,Food Items,9,20,6,3.24,Excellent
+France,59,Female,Prayer Flags,Buddhist Festivals,5,18,9,3.99,Good
+Germany,31,Female,Sarees,Festivals/Weddings,4,9,5,4.27,Average
+Germany,45,Male,Puja Samagri of Kumartuli,Handicrafts,1,16,6,3.49,Good
+UAE,37,Female,Moya of Joynagar,Food Items,8,9,3,3.64,Average
+UK,55,Female,Prayer Rugs,Ramadan/Eid,10,20,1,4.12,Average
+Trinidad and Tobago,64,Female,Terracotta Arts of Bishnupur,Decorative,6,8,6,3.49,Average
+Australia,47,Female,Pooja Thalis,Diwali,2,11,5,4.61,Average
+South Africa,22,Male,Moya of Joynagar,Food Items,8,6,6,3.93,Good
+France,71,Female,Rakhis,Raksha Bandhan,1,15,1,3.9,Good
+South Africa,75,Female,Rangoli Colors,Diwali,3,16,9,3.25,Good
+UAE,36,Female,Ganesh Idols,Ganesh Chaturthi,3,17,8,4.73,Good
+Trinidad and Tobago,18,Male,Mojaris,Festivals/Weddings,3,7,8,4.07,Good
+Trinidad and Tobago,75,Male,Pagdis,Sikh Celebrations,6,6,9,3.48,Good
+Australia,21,Female,Handicrafts of Santiniketan,Handicrafts,7,11,4,3.86,Good
+UK,64,Female,Kurtas,Festivals/Weddings,3,7,7,3.43,Excellent
+Australia,46,Male,Rakhis,Raksha Bandhan,3,5,2,3.58,Average
+France,20,Male,Puja Samagri of Kumartuli,Handicrafts,10,16,5,4.59,Average
+USA,43,Female,Traditional Jewelry,Festivals/Weddings,8,6,7,4.11,Good
+France,36,Male,Prayer Rugs,Ramadan/Eid,3,9,5,3.8,Good
+UK,61,Female,Torans,Festivals/Decorative,10,12,4,4.58,Good
+Trinidad and Tobago,49,Male,Moya of Joynagar,Food Items,5,17,9,3.96,Good
+Germany,40,Male,Prayer Rugs,Ramadan/Eid,5,11,2,3.31,Good
+Australia,49,Female,Torans,Festivals/Decorative,8,18,9,3.11,Average
+South Africa,69,Male,Prayer Flags,Buddhist Festivals,10,15,2,4.73,Good
+South Africa,61,Male,Bandhanwars,Festivals/Decorative,7,14,4,3.3,Good
+France,24,Female,Torans,Festivals/Decorative,9,20,8,3.56,Good
+Trinidad and Tobago,54,Female,Prayer Rugs,Ramadan/Eid,10,18,7,4.03,Good
+Germany,39,Female,Warli Art,Decorative,1,14,10,3.17,Good
+France,46,Male,Handicrafts of Santiniketan,Handicrafts,9,9,3,4.39,Average
+USA,45,Male,Ganesh Idols,Ganesh Chaturthi,6,13,7,4.52,Good
+South Africa,43,Female,Pagdis,Sikh Celebrations,1,11,3,4.32,Good
+UAE,33,Male,Rakhis,Raksha Bandhan,2,6,8,4.62,Average
+UK,58,Male,Rangoli Colors,Diwali,3,16,5,3.31,Good
+UAE,59,Female,Handicrafts of Santiniketan,Handicrafts,3,15,1,4.05,Good
+USA,71,Female,Rajasthani Puppets,Decorative,3,5,10,4.36,Good
+Germany,28,Female,Torans,Festivals/Decorative,2,10,2,4.45,Good
+Germany,69,Male,Rajasthani Puppets,Decorative,5,9,8,3.25,Average
+South Africa,30,Male,Mojaris,Festivals/Weddings,4,18,10,3.86,Good
+Canada,55,Male,Ganesh Idols,Ganesh Chaturthi,7,13,2,3.88,Average
+Trinidad and Tobago,72,Female,Rangoli Colors,Diwali,3,8,2,4.39,Average
+South Africa,60,Male,Moya of Joynagar,Food Items,9,13,5,4.62,Average
+UAE,40,Male,Sarees,Festivals/Weddings,8,15,6,4.75,Good
+Australia,49,Female,Prayer Flags,Buddhist Festivals,7,7,2,3.56,Good
+France,33,Female,Pooja Thalis,Diwali,8,14,2,3.78,Good
+Trinidad and Tobago,59,Female,Terracotta Arts of Bishnupur,Decorative,9,19,4,3.05,Good
+South Africa,36,Female,Prayer Flags,Buddhist Festivals,2,17,1,4.32,Good
+USA,21,Male,Rangoli Colors,Diwali,6,9,1,4.11,Average
+USA,55,Female,Prayer Rugs,Ramadan/Eid,4,8,6,4.04,Good
+Trinidad and Tobago,28,Female,Pagdis,Sikh Celebrations,1,8,8,3.51,Good
+France,47,Female,Pooja Thalis,Diwali,9,13,6,3.48,Average
+UK,63,Male,Ganesh Idols,Ganesh Chaturthi,3,16,1,3.32,Good
+France,65,Male,Prayer Flags,Buddhist Festivals,7,14,4,4.55,Good
+UAE,36,Female,Moya of Joynagar,Food Items,2,12,1,3.43,Good
+France,41,Female,Rajasthani Puppets,Decorative,6,9,4,4.76,Good
+Trinidad and Tobago,34,Male,Prayer Flags,Buddhist Festivals,1,9,2,3.18,Good
+UAE,71,Female,Handicrafts of Santiniketan,Handicrafts,2,9,6,4.28,Average
+UK,21,Male,Pooja Thalis,Diwali,7,18,3,3.68,Excellent
+Australia,42,Male,Sarees,Festivals/Weddings,8,15,7,3.4,Good
+Australia,20,Male,Kurtas,Festivals/Weddings,7,20,7,4.14,Good
+South Africa,33,Male,Traditional Jewelry,Festivals/Weddings,5,7,2,4.64,Good
+Trinidad and Tobago,21,Female,Prayer Rugs,Ramadan/Eid,4,15,4,3.75,Good
+France,59,Female,Prayer Rugs,Ramadan/Eid,3,8,2,4.24,Average
+Trinidad and Tobago,68,Male,Handicrafts of Santiniketan,Handicrafts,7,11,4,4.2,Good
+Trinidad and Tobago,29,Male,Puja Samagri of Kumartuli,Handicrafts,1,5,10,3.95,Good
+USA,43,Female,Rangoli Colors,Diwali,9,11,10,3.87,Good
+South Africa,52,Male,Ganesh Idols,Ganesh Chaturthi,8,19,4,3.03,Good
+Australia,64,Male,Rakhis,Raksha Bandhan,3,16,5,4.76,Good
+UAE,21,Male,Kurtas,Festivals/Weddings,9,17,2,3.68,Bad
+USA,21,Male,Moya of Joynagar,Food Items,2,9,8,3.06,Average
+Trinidad and Tobago,24,Female,Puja Samagri of Kumartuli,Handicrafts,5,17,4,4.39,Good
+Canada,56,Female,Moya of Joynagar,Food Items,7,18,8,3.1,Good
+France,44,Female,Torans,Festivals/Decorative,9,18,2,3.04,Good
+Germany,72,Male,Rakhis,Raksha Bandhan,9,12,3,3.03,Good
+France,37,Male,Torans,Festivals/Decorative,8,12,8,4.53,Excellent
+Germany,42,Female,Prayer Rugs,Ramadan/Eid,10,9,3,4.17,Good
+USA,21,Male,Warli Art,Decorative,9,9,6,4.18,Good
+Trinidad and Tobago,69,Female,Torans,Festivals/Decorative,5,9,3,4.15,Good
+South Africa,18,Female,Ganesh Idols,Ganesh Chaturthi,4,8,1,3.79,Good
+UK,35,Male,Bandhanwars,Festivals/Decorative,6,15,4,3.35,Bad
+South Africa,25,Female,Puja Samagri of Kumartuli,Handicrafts,4,14,4,3.43,Average
+UAE,44,Male,Prayer Rugs,Ramadan/Eid,9,16,7,4.22,Good
+Trinidad and Tobago,32,Female,Prayer Flags,Buddhist Festivals,9,6,10,4.27,Good
+Trinidad and Tobago,34,Male,Bandhanwars,Festivals/Decorative,1,14,1,4.78,Good
+Trinidad and Tobago,49,Male,Rakhis,Raksha Bandhan,10,10,7,3.43,Bad
+USA,73,Male,Rakhis,Raksha Bandhan,7,12,2,3.89,Good
+Germany,71,Male,Handicrafts of Santiniketan,Handicrafts,2,19,10,3.54,Average
+Trinidad and Tobago,20,Female,Rakhis,Raksha Bandhan,7,10,5,3.41,Good
+Australia,56,Male,Rakhis,Raksha Bandhan,7,17,6,4.16,Average
+Trinidad and Tobago,22,Female,Prayer Rugs,Ramadan/Eid,8,9,5,4.52,Good
+Canada,67,Female,Handicrafts of Santiniketan,Handicrafts,7,13,7,3.77,Average
+France,69,Female,Warli Art,Decorative,8,13,2,4.59,Good
+South Africa,50,Female,Prayer Rugs,Ramadan/Eid,4,8,1,4.53,Average
+South Africa,52,Female,Pooja Thalis,Diwali,4,19,9,3.11,Good
+Australia,65,Female,Rakhis,Raksha Bandhan,3,5,5,3.22,Average
+UK,35,Male,Torans,Festivals/Decorative,2,20,7,3.14,Good
+Australia,25,Male,Ganesh Idols,Ganesh Chaturthi,8,16,1,4.59,Good
+UAE,59,Female,Ganesh Idols,Ganesh Chaturthi,4,12,2,3.59,Average
+USA,59,Male,Prayer Flags,Buddhist Festivals,2,14,5,3.82,Good
+South Africa,18,Female,Moya of Joynagar,Food Items,6,16,5,3.25,Good
+Germany,46,Female,Pagdis,Sikh Celebrations,4,19,7,3.45,Good
+UAE,52,Male,Bandhanwars,Festivals/Decorative,9,7,7,3.85,Good
+UK,18,Female,Warli Art,Decorative,10,8,5,4.76,Excellent
+UAE,68,Male,Bandhanwars,Festivals/Decorative,4,11,7,4.77,Average
+UAE,46,Male,Bandhanwars,Festivals/Decorative,9,10,5,3.44,Good
+South Africa,33,Female,Prayer Flags,Buddhist Festivals,4,19,7,3.9,Good
+Canada,53,Male,Handicrafts of Santiniketan,Handicrafts,3,20,9,4.38,Good
+Germany,23,Male,Handicrafts of Santiniketan,Handicrafts,5,13,8,3.69,Good
+Australia,30,Male,Prayer Flags,Buddhist Festivals,10,15,5,3.65,Good
+Canada,23,Male,Terracotta Arts of Bishnupur,Decorative,7,18,3,3.25,Good
+Australia,61,Male,Moya of Joynagar,Food Items,2,18,5,4.8,Good
+Germany,58,Male,Warli Art,Decorative,5,10,9,3.81,Good
+Germany,54,Male,Rakhis,Raksha Bandhan,5,6,10,3.3,Good
+UAE,63,Female,Pagdis,Sikh Celebrations,4,17,5,3.8,Good
+Germany,31,Female,Rajasthani Puppets,Decorative,4,16,4,3.57,Good
+UAE,75,Male,Prayer Rugs,Ramadan/Eid,2,16,5,3.24,Good
+Australia,56,Male,Puja Samagri of Kumartuli,Handicrafts,3,19,5,4.57,Good
+South Africa,35,Male,Pooja Thalis,Diwali,6,17,5,4.28,Good
+South Africa,58,Male,Puja Samagri of Kumartuli,Handicrafts,6,7,7,4.44,Good
+UK,43,Female,Traditional Jewelry,Festivals/Weddings,9,17,4,3.68,Average
+USA,43,Female,Rangoli Colors,Diwali,3,14,6,3.02,Average
+UAE,41,Male,Warli Art,Decorative,1,20,3,3.36,Good
+South Africa,74,Female,Prayer Rugs,Ramadan/Eid,8,18,1,4.77,Good
+Canada,32,Male,Ganesh Idols,Ganesh Chaturthi,1,6,10,4.64,Good
+Germany,73,Male,Prayer Flags,Buddhist Festivals,9,10,2,3.18,Average
+Germany,22,Female,Rakhis,Raksha Bandhan,6,18,7,4.03,Good
+UAE,37,Female,Rajasthani Puppets,Decorative,3,18,1,3.6,Good
+Australia,75,Female,Moya of Joynagar,Food Items,9,16,5,3.2,Good
+Canada,60,Male,Prayer Flags,Buddhist Festivals,2,8,7,4.11,Good
+UAE,30,Male,Madhubani Paintings,Diwali,7,8,6,3.92,Good
+South Africa,74,Female,Pagdis,Sikh Celebrations,7,6,1,4.18,Good
+France,57,Male,Ganesh Idols,Ganesh Chaturthi,9,19,8,4.04,Good
+USA,75,Female,Prayer Flags,Buddhist Festivals,8,8,6,4.72,Good
+South Africa,34,Female,Moya of Joynagar,Food Items,4,9,4,3.89,Good
+Canada,63,Female,Ganesh Idols,Ganesh Chaturthi,4,10,10,3.98,Good
+Canada,39,Male,Handicrafts of Santiniketan,Handicrafts,5,13,5,4.26,Good
+Canada,47,Female,Prayer Flags,Buddhist Festivals,1,7,10,4.06,Average
+South Africa,68,Male,Sarees,Festivals/Weddings,2,13,1,3.01,Bad
+South Africa,31,Female,Prayer Rugs,Ramadan/Eid,4,5,7,3.47,Excellent
+UAE,43,Female,Ganesh Idols,Ganesh Chaturthi,7,13,5,4.29,Good
+Canada,48,Female,Prayer Flags,Buddhist Festivals,2,12,6,3.25,Good
+France,53,Female,Pagdis,Sikh Celebrations,9,20,6,3.1,Average
+Australia,39,Male,Rangoli Colors,Diwali,7,8,10,3.38,Good
+France,27,Male,Ganesh Idols,Ganesh Chaturthi,10,13,6,3.18,Excellent
+UAE,34,Female,Ganesh Idols,Ganesh Chaturthi,2,16,2,3.1,Good
+South Africa,66,Female,Rakhis,Raksha Bandhan,3,13,8,4.26,Good
+Canada,23,Male,Torans,Festivals/Decorative,2,11,4,4.35,Good
+USA,75,Female,Sarees,Festivals/Weddings,10,13,6,3.22,Average
+Germany,59,Female,Ganesh Idols,Ganesh Chaturthi,2,17,10,3.23,Average
+UK,69,Female,Terracotta Arts of Bishnupur,Decorative,2,8,10,4.34,Good
+Trinidad and Tobago,58,Male,Bandhanwars,Festivals/Decorative,7,18,4,3.15,Good
+UAE,65,Female,Pagdis,Sikh Celebrations,5,18,10,3.42,Good
+UAE,59,Female,Sarees,Festivals/Weddings,2,14,1,3.28,Bad
+Canada,18,Male,Ganesh Idols,Ganesh Chaturthi,2,19,9,4.67,Good
+UAE,61,Male,Pagdis,Sikh Celebrations,1,19,1,4.16,Good
+UK,20,Female,Prayer Flags,Buddhist Festivals,3,7,8,3.24,Good
+UAE,27,Male,Prayer Flags,Buddhist Festivals,9,19,1,4.21,Good
+South Africa,23,Male,Mojaris,Festivals/Weddings,2,11,5,3.64,Good
+USA,67,Male,Prayer Flags,Buddhist Festivals,7,18,6,3.44,Average
+Trinidad and Tobago,54,Female,Rangoli Colors,Diwali,6,18,2,4.39,Good
+Australia,31,Female,Rakhis,Raksha Bandhan,4,6,5,3.31,Good
+Germany,47,Male,Prayer Flags,Buddhist Festivals,5,7,7,3.01,Good
+Germany,52,Male,Warli Art,Decorative,4,15,5,3.26,Good
+USA,58,Male,Moya of Joynagar,Food Items,1,5,5,3.48,Good
+UAE,44,Male,Handicrafts of Santiniketan,Handicrafts,2,18,5,3.44,Excellent
+UK,62,Female,Torans,Festivals/Decorative,9,15,2,4.44,Good
+UK,51,Male,Bandhanwars,Festivals/Decorative,3,16,10,3.75,Good
+France,21,Male,Moya of Joynagar,Food Items,5,12,6,3.76,Bad
+Canada,19,Male,Moya of Joynagar,Food Items,5,16,10,4.3,Good
+Canada,59,Male,Pagdis,Sikh Celebrations,10,20,10,3.14,Good
+France,72,Female,Ganesh Idols,Ganesh Chaturthi,3,12,9,4.31,Good
+Trinidad and Tobago,60,Female,Torans,Festivals/Decorative,1,18,1,4.06,Good
+Canada,30,Female,Sarees,Festivals/Weddings,5,19,8,3.96,Good
+Australia,64,Male,Ganesh Idols,Ganesh Chaturthi,5,9,2,3.26,Bad
+South Africa,58,Female,Puja Samagri of Kumartuli,Handicrafts,10,12,9,4.72,Average
+Australia,22,Male,Prayer Rugs,Ramadan/Eid,5,17,8,4.19,Bad
+France,58,Female,Kurtas,Festivals/Weddings,5,19,3,3.45,Good
+South Africa,19,Male,Terracotta Arts of Bishnupur,Decorative,4,9,6,3.6,Good
+France,57,Male,Prayer Rugs,Ramadan/Eid,1,9,2,3.07,Excellent
+UAE,74,Male,Pagdis,Sikh Celebrations,8,8,1,4.16,Good
+France,30,Female,Terracotta Arts of Bishnupur,Decorative,9,6,2,3.87,Good
+UK,37,Male,Moya of Joynagar,Food Items,5,19,8,4.09,Good
+Canada,33,Female,Handicrafts of Santiniketan,Handicrafts,2,14,6,4.71,Average
+USA,71,Female,Traditional Jewelry,Festivals/Weddings,2,20,3,4.64,Good
+UAE,74,Female,Madhubani Paintings,Diwali,9,6,7,4.16,Average
+France,56,Female,Prayer Rugs,Ramadan/Eid,4,6,9,3.24,Good
+Germany,59,Male,Kurtas,Festivals/Weddings,8,20,10,4.41,Excellent
+UAE,39,Male,Prayer Flags,Buddhist Festivals,4,5,8,3.5,Good
+Trinidad and Tobago,51,Male,Moya of Joynagar,Food Items,10,8,9,4.74,Good
+Australia,18,Female,Prayer Rugs,Ramadan/Eid,3,5,10,3.31,Good
+USA,20,Male,Pagdis,Sikh Celebrations,4,11,8,3.64,Good
+UAE,71,Female,Moya of Joynagar,Food Items,8,19,1,4.48,Good
+France,75,Female,Pagdis,Sikh Celebrations,4,9,1,4.38,Good
+South Africa,59,Male,Prayer Rugs,Ramadan/Eid,3,8,10,3.32,Good
+UK,50,Male,Handicrafts of Santiniketan,Handicrafts,8,18,8,3.97,Excellent
+Australia,28,Male,Moya of Joynagar,Food Items,9,15,6,3.63,Good
+Trinidad and Tobago,19,Female,Pagdis,Sikh Celebrations,9,9,7,4.55,Good
+Canada,31,Female,Rakhis,Raksha Bandhan,4,5,10,3.63,Good
+UAE,68,Male,Mojaris,Festivals/Weddings,2,20,4,3.79,Average
+Germany,38,Female,Madhubani Paintings,Diwali,2,7,9,3.21,Good
+France,58,Male,Pooja Thalis,Diwali,7,7,5,4.52,Good
+Canada,65,Female,Rakhis,Raksha Bandhan,6,20,6,3.24,Good
+Trinidad and Tobago,44,Male,Torans,Festivals/Decorative,1,9,8,3.65,Good
+UAE,28,Male,Handicrafts of Santiniketan,Handicrafts,2,15,9,4.01,Excellent
+UK,63,Male,Bandhanwars,Festivals/Decorative,3,13,5,3.41,Good
+France,44,Female,Rakhis,Raksha Bandhan,4,17,8,3.31,Average
+South Africa,44,Female,Terracotta Arts of Bishnupur,Decorative,2,13,9,4.55,Good
+Canada,64,Female,Moya of Joynagar,Food Items,9,10,3,4.78,Good
+France,51,Male,Pagdis,Sikh Celebrations,5,7,10,4.76,Good
+Australia,21,Female,Rajasthani Puppets,Decorative,4,13,4,4.49,Average
+UAE,73,Male,Ganesh Idols,Ganesh Chaturthi,2,13,10,4.0,Average
+Trinidad and Tobago,69,Male,Rangoli Colors,Diwali,9,20,8,3.72,Good
+Canada,19,Female,Prayer Rugs,Ramadan/Eid,7,7,10,4.57,Good
+UK,24,Male,Pooja Thalis,Diwali,4,10,10,3.87,Average
+Germany,48,Female,Prayer Flags,Buddhist Festivals,2,6,6,3.17,Good
+UK,30,Male,Prayer Flags,Buddhist Festivals,1,16,9,4.59,Average
+USA,67,Male,Pagdis,Sikh Celebrations,9,20,6,3.03,Excellent
+UAE,41,Male,Torans,Festivals/Decorative,7,6,6,4.56,Good
+UK,49,Female,Rajasthani Puppets,Decorative,2,14,7,3.85,Good
+USA,68,Male,Pagdis,Sikh Celebrations,1,19,10,4.28,Average
+UAE,51,Female,Ganesh Idols,Ganesh Chaturthi,2,6,7,3.29,Good
+USA,75,Male,Madhubani Paintings,Diwali,5,14,10,4.55,Good
+South Africa,25,Female,Pooja Thalis,Diwali,9,13,10,4.4,Good
+Germany,29,Female,Pooja Thalis,Diwali,10,11,1,3.07,Good
+Canada,21,Female,Rangoli Colors,Diwali,8,8,10,3.41,Good
+Australia,71,Male,Rakhis,Raksha Bandhan,1,18,7,3.2,Good
+USA,49,Male,Ganesh Idols,Ganesh Chaturthi,10,12,4,3.45,Good
+Germany,47,Male,Rakhis,Raksha Bandhan,9,7,2,4.73,Good
+South Africa,21,Female,Prayer Flags,Buddhist Festivals,1,6,6,4.19,Good
+France,23,Female,Ganesh Idols,Ganesh Chaturthi,4,15,9,4.35,Good
+USA,75,Female,Puja Samagri of Kumartuli,Handicrafts,5,17,9,3.12,Good
+Germany,36,Male,Torans,Festivals/Decorative,9,20,7,4.37,Good
+Australia,20,Male,Handicrafts of Santiniketan,Handicrafts,4,9,8,4.14,Good
+Australia,20,Male,Rakhis,Raksha Bandhan,7,14,5,4.69,Good
+UK,74,Male,Kurtas,Festivals/Weddings,7,18,1,4.73,Good
+USA,71,Female,Rakhis,Raksha Bandhan,7,15,9,3.76,Good
+Canada,57,Male,Terracotta Arts of Bishnupur,Decorative,10,15,10,4.28,Good
+UK,34,Male,Prayer Flags,Buddhist Festivals,8,9,3,3.73,Good
+South Africa,40,Male,Rangoli Colors,Diwali,3,5,1,4.76,Average
+USA,37,Male,Bandhanwars,Festivals/Decorative,3,16,9,3.32,Good
+South Africa,52,Male,Ganesh Idols,Ganesh Chaturthi,3,7,7,3.86,Good
+France,48,Male,Pooja Thalis,Diwali,7,8,8,3.13,Good
+Trinidad and Tobago,47,Male,Rakhis,Raksha Bandhan,2,14,6,3.39,Good
+Germany,50,Male,Handicrafts of Santiniketan,Handicrafts,7,20,1,4.58,Good
+South Africa,32,Female,Prayer Flags,Buddhist Festivals,3,20,1,4.8,Bad
+Canada,56,Female,Pagdis,Sikh Celebrations,1,12,10,3.02,Good
+South Africa,20,Female,Madhubani Paintings,Diwali,6,10,10,4.06,Excellent
+France,49,Female,Sarees,Festivals/Weddings,7,17,4,3.24,Average
+UK,25,Male,Pagdis,Sikh Celebrations,3,14,4,3.6,Good
+Trinidad and Tobago,74,Male,Handicrafts of Santiniketan,Handicrafts,1,14,6,4.65,Good
+South Africa,57,Male,Sarees,Festivals/Weddings,10,11,1,3.27,Good
+UAE,48,Female,Puja Samagri of Kumartuli,Handicrafts,1,20,7,4.09,Good
+Germany,63,Male,Pagdis,Sikh Celebrations,4,14,3,3.31,Average
+Australia,63,Male,Pagdis,Sikh Celebrations,2,7,8,3.7,Excellent
+Germany,70,Female,Puja Samagri of Kumartuli,Handicrafts,10,7,10,3.48,Good
+France,31,Male,Madhubani Paintings,Diwali,1,8,4,3.17,Bad
+Trinidad and Tobago,58,Male,Torans,Festivals/Decorative,8,16,7,4.23,Good
+Germany,65,Male,Rajasthani Puppets,Decorative,10,13,6,3.53,Good
+UAE,67,Female,Pagdis,Sikh Celebrations,7,20,9,4.72,Good
+UAE,55,Male,Rajasthani Puppets,Decorative,4,20,10,3.55,Good
+Canada,42,Female,Sarees,Festivals/Weddings,8,7,8,3.92,Good
+Germany,30,Male,Rajasthani Puppets,Decorative,9,17,10,3.53,Good
+UK,72,Male,Ganesh Idols,Ganesh Chaturthi,6,12,2,4.48,Average
+South Africa,63,Male,Torans,Festivals/Decorative,3,13,1,4.16,Good
+France,62,Male,Pooja Thalis,Diwali,8,14,8,3.06,Average
+Canada,71,Female,Terracotta Arts of Bishnupur,Decorative,7,19,8,4.42,Good
+Germany,58,Female,Traditional Jewelry,Festivals/Weddings,4,7,1,3.47,Good
+UAE,61,Male,Prayer Rugs,Ramadan/Eid,5,14,3,3.03,Good
+South Africa,39,Female,Prayer Rugs,Ramadan/Eid,2,10,6,3.57,Excellent
+Australia,23,Female,Puja Samagri of Kumartuli,Handicrafts,9,6,5,3.92,Average
+South Africa,58,Female,Sarees,Festivals/Weddings,6,12,1,4.07,Good
+France,60,Male,Prayer Flags,Buddhist Festivals,1,7,10,3.17,Good
+UAE,30,Male,Sarees,Festivals/Weddings,7,20,3,3.41,Average
+Canada,55,Female,Prayer Rugs,Ramadan/Eid,10,17,9,3.32,Good
+UAE,50,Female,Rajasthani Puppets,Decorative,9,11,6,3.6,Good
+UK,56,Female,Rajasthani Puppets,Decorative,2,19,10,3.64,Average
+UK,53,Male,Madhubani Paintings,Diwali,3,16,6,3.19,Good
+Australia,64,Female,Rangoli Colors,Diwali,7,19,2,4.36,Good
+South Africa,38,Female,Pooja Thalis,Diwali,2,6,10,4.46,Excellent
+France,23,Male,Puja Samagri of Kumartuli,Handicrafts,10,14,8,4.19,Good
+Trinidad and Tobago,45,Female,Pooja Thalis,Diwali,8,20,1,4.36,Good
+UAE,27,Female,Ganesh Idols,Ganesh Chaturthi,3,5,1,3.89,Good
+France,58,Female,Rakhis,Raksha Bandhan,5,8,9,4.28,Good
+Australia,21,Male,Rangoli Colors,Diwali,9,7,2,4.33,Good
+Trinidad and Tobago,33,Male,Pagdis,Sikh Celebrations,5,17,9,4.69,Good
+UAE,18,Male,Mojaris,Festivals/Weddings,8,19,7,3.66,Good
+UAE,34,Male,Prayer Flags,Buddhist Festivals,1,16,4,4.63,Bad
+USA,44,Male,Mojaris,Festivals/Weddings,8,14,1,4.67,Good
+Germany,45,Male,Mojaris,Festivals/Weddings,10,8,8,3.73,Good
+Trinidad and Tobago,72,Male,Prayer Flags,Buddhist Festivals,8,5,2,3.61,Average
+UK,44,Female,Rakhis,Raksha Bandhan,10,9,7,4.33,Average
+Australia,61,Female,Prayer Flags,Buddhist Festivals,3,12,10,3.01,Excellent
+UAE,50,Female,Prayer Rugs,Ramadan/Eid,4,12,7,4.16,Bad
+France,75,Male,Moya of Joynagar,Food Items,5,20,6,4.68,Good
+UK,36,Female,Warli Art,Decorative,9,9,7,4.26,Good
+Canada,38,Female,Puja Samagri of Kumartuli,Handicrafts,4,6,1,4.8,Good
+Trinidad and Tobago,49,Male,Madhubani Paintings,Diwali,8,14,2,3.73,Good
+Germany,21,Male,Rakhis,Raksha Bandhan,1,7,8,3.73,Good
+South Africa,60,Male,Moya of Joynagar,Food Items,5,19,7,3.09,Bad
+UAE,38,Female,Pagdis,Sikh Celebrations,8,20,1,3.32,Average
+UAE,30,Male,Pooja Thalis,Diwali,5,12,7,4.03,Good
+UK,50,Male,Warli Art,Decorative,4,11,1,3.52,Good
+Australia,22,Female,Pagdis,Sikh Celebrations,7,11,7,3.1,Good
+France,23,Female,Handicrafts of Santiniketan,Handicrafts,10,18,10,4.72,Good
+Trinidad and Tobago,23,Female,Rakhis,Raksha Bandhan,1,10,2,3.84,Good
+UAE,36,Male,Pagdis,Sikh Celebrations,1,6,8,3.39,Average
+South Africa,18,Female,Puja Samagri of Kumartuli,Handicrafts,3,18,6,3.46,Average
+Australia,69,Male,Terracotta Arts of Bishnupur,Decorative,2,9,8,3.01,Good
+UAE,28,Female,Prayer Flags,Buddhist Festivals,9,7,4,4.01,Good
+South Africa,23,Female,Ganesh Idols,Ganesh Chaturthi,8,14,10,4.25,Good
+Germany,37,Female,Pagdis,Sikh Celebrations,1,20,5,4.59,Good
+UAE,57,Female,Handicrafts of Santiniketan,Handicrafts,2,17,6,3.28,Average
+Trinidad and Tobago,29,Male,Terracotta Arts of Bishnupur,Decorative,2,18,6,4.54,Good
+Trinidad and Tobago,26,Male,Rangoli Colors,Diwali,5,17,8,4.65,Excellent
+Australia,40,Male,Prayer Rugs,Ramadan/Eid,5,12,8,4.76,Good
+Trinidad and Tobago,41,Female,Rakhis,Raksha Bandhan,5,14,2,3.59,Good
+UK,58,Male,Terracotta Arts of Bishnupur,Decorative,8,11,2,3.74,Excellent
+UAE,68,Female,Puja Samagri of Kumartuli,Handicrafts,1,17,8,3.31,Good
+South Africa,21,Female,Pooja Thalis,Diwali,8,18,4,3.84,Good
+Germany,62,Male,Terracotta Arts of Bishnupur,Decorative,5,6,1,3.94,Bad
+UAE,25,Female,Pagdis,Sikh Celebrations,3,10,4,3.41,Good
+UAE,35,Female,Prayer Rugs,Ramadan/Eid,8,14,9,3.42,Average
+Germany,41,Male,Rakhis,Raksha Bandhan,1,11,2,4.44,Excellent
+UK,23,Male,Ganesh Idols,Ganesh Chaturthi,10,8,8,3.5,Good
+Canada,56,Female,Handicrafts of Santiniketan,Handicrafts,8,14,9,3.72,Bad
+France,33,Female,Ganesh Idols,Ganesh Chaturthi,8,17,7,4.75,Good
+Canada,41,Male,Bandhanwars,Festivals/Decorative,10,17,9,4.39,Good
+France,75,Male,Moya of Joynagar,Food Items,1,7,5,4.57,Good
+Canada,51,Female,Moya of Joynagar,Food Items,6,18,2,4.39,Good
+Australia,27,Female,Pooja Thalis,Diwali,5,16,7,4.21,Bad
+UK,32,Male,Prayer Rugs,Ramadan/Eid,6,5,4,3.69,Good
+Canada,35,Female,Pagdis,Sikh Celebrations,7,14,8,4.79,Average
+UAE,67,Male,Bandhanwars,Festivals/Decorative,3,5,6,4.78,Good
+France,38,Male,Prayer Rugs,Ramadan/Eid,9,8,2,4.38,Good
+UK,39,Female,Torans,Festivals/Decorative,6,13,5,3.27,Good
+France,71,Male,Ganesh Idols,Ganesh Chaturthi,4,16,1,4.17,Good
+USA,35,Male,Traditional Jewelry,Festivals/Weddings,8,7,1,3.39,Excellent
+Canada,41,Male,Moya of Joynagar,Food Items,3,17,3,4.56,Good
+France,67,Male,Moya of Joynagar,Food Items,9,9,10,3.57,Good
+Trinidad and Tobago,44,Male,Rajasthani Puppets,Decorative,8,14,1,3.22,Average
+South Africa,72,Female,Bandhanwars,Festivals/Decorative,1,10,10,4.46,Average
+Australia,38,Male,Handicrafts of Santiniketan,Handicrafts,3,6,7,4.78,Average
+Trinidad and Tobago,69,Male,Moya of Joynagar,Food Items,5,15,6,3.64,Average
+South Africa,52,Male,Prayer Rugs,Ramadan/Eid,10,10,5,3.84,Good
+South Africa,58,Female,Madhubani Paintings,Diwali,3,14,6,3.26,Bad
+Canada,23,Male,Moya of Joynagar,Food Items,6,20,3,4.48,Average
+UAE,66,Female,Mojaris,Festivals/Weddings,8,12,8,3.1,Good
+UK,30,Female,Prayer Flags,Buddhist Festivals,7,5,7,3.35,Good
+USA,33,Male,Rakhis,Raksha Bandhan,10,16,7,4.0,Good
+Germany,74,Male,Rakhis,Raksha Bandhan,7,9,9,3.24,Excellent
+USA,60,Female,Prayer Rugs,Ramadan/Eid,7,18,7,3.42,Good
+Australia,48,Female,Rakhis,Raksha Bandhan,1,6,5,4.24,Average
+USA,52,Female,Rakhis,Raksha Bandhan,9,8,8,4.24,Average
+Canada,26,Male,Bandhanwars,Festivals/Decorative,6,11,3,3.14,Average
+France,64,Female,Pagdis,Sikh Celebrations,8,17,7,3.06,Good
+Germany,26,Male,Prayer Rugs,Ramadan/Eid,10,9,8,4.78,Average
+UK,27,Female,Pagdis,Sikh Celebrations,7,5,10,4.26,Good
+UK,70,Female,Rakhis,Raksha Bandhan,4,9,8,3.71,Average
+Canada,41,Female,Puja Samagri of Kumartuli,Handicrafts,4,10,7,3.05,Good
+Trinidad and Tobago,67,Male,Pagdis,Sikh Celebrations,6,12,10,3.07,Good
+USA,37,Female,Terracotta Arts of Bishnupur,Decorative,7,10,7,4.21,Good
+Trinidad and Tobago,21,Male,Handicrafts of Santiniketan,Handicrafts,3,16,10,4.67,Average
+UAE,27,Male,Rakhis,Raksha Bandhan,1,11,4,4.52,Good
+UAE,25,Female,Prayer Rugs,Ramadan/Eid,2,19,2,3.11,Good
+Australia,28,Male,Torans,Festivals/Decorative,6,14,2,3.99,Good
+Germany,46,Female,Ganesh Idols,Ganesh Chaturthi,10,15,8,3.05,Good
+Canada,62,Male,Ganesh Idols,Ganesh Chaturthi,3,13,9,3.79,Good
+USA,49,Female,Rajasthani Puppets,Decorative,7,19,8,3.6,Average
+Canada,46,Female,Pagdis,Sikh Celebrations,1,8,3,3.69,Excellent
+Canada,68,Female,Handicrafts of Santiniketan,Handicrafts,4,9,4,3.96,Good
+Canada,25,Male,Puja Samagri of Kumartuli,Handicrafts,2,17,9,4.22,Good
