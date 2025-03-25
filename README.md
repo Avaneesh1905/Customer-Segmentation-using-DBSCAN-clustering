@@ -70,7 +70,7 @@ Cluster	Size	Most Common Product Category	Avg. Purchase Frequency	Avg. Rating
 
 ## Visualization Example:
 
-![DBSCAN Cluster Plot](image.png)
+![DBSCAN Cluster Plot](cluster_plot.png)
 
 ## Conclusion
 The UMAP + DBSCAN combination effectively grouped customers based on their purchasing patterns.
