@@ -14,9 +14,11 @@ Visualization: Generates scatter plots to visualize clusters.
 ## Dataset:
 The dataset contains customer transaction data with the following key features:
 
-## Categorical Features: Country, Seasonal Occasion, Product Category
+## Categorical Features: 
+Country, Seasonal Occasion, Product Category
 
-## Numerical Features: Purchase Frequency, Rating
+## Numerical Features: 
+Purchase Frequency, Rating
 
 ## Installation:
 To run the project, install the required dependencies:
